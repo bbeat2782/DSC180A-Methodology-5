@@ -1,6 +1,9 @@
 Name: SangGyu An
+
 Email: sgan@ucsd.edu
+
 Section: A16
+
 Mentors: Gal Mishne, Yusu Wang
 
 **What is the most interesting topic covered in your domain this quarter?**  
